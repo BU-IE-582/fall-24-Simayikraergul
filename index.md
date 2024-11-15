@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Homeworks
 * [Solution for Homework1](https://github.com/BU-IE-582/fall-24-Simayikraergul/blob/main/HW1-code.ipynb)
+* [Solution for Homework1 HTML]()
 * [Solution for Homework1-with explanations and report](https://github.com/BU-IE-582/fall-24-Simayikraergul/blob/main/HW1-2.ipynb)
+*
 
 ### Markdown
 
