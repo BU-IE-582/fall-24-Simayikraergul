@@ -14,7 +14,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * [Solution for Homework2-HTML](files/HW2.html)
 
 ### Project
-* [Project code](files/582_code.ipynb)
+* [Project code](https://github.com/BU-IE-582/fall-24-Simayikraergul/blob/main/files/582_code.ipynb)
+* [Project code(to download)](files/582_code.ipynb)
 * [Project report](files/IE582_ProjectReport_final.html)
 
 ### Markdown
