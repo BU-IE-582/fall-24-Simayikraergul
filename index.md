@@ -13,6 +13,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * [Solution for Homework2-code](https://github.com/BU-IE-582/fall-24-Simayikraergul/blob/main/HW2.ipynb)
 * [Solution for Homework2-HTML](files/HW2.html)
 
+### Project
+* [Project code](files/582_code.ipynb)
+* [Project report](files/IE582_ProjectReport_final.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
